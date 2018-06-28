@@ -1,7 +1,14 @@
 Package: TopDomData
 ===================
 
+Version: 0.1.0 [2018-06-28]
+
+ * Released on GitHub.
+
+ * Documented origin of data.
+
+
 Version: 0.0.0-9000 [2017-11-28]
 
- o Created.
+ * Created.
 

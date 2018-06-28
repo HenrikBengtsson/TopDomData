@@ -9,7 +9,7 @@ _Note_: The license for these data is unknown.
 
 ## Installation
 
-To install this package, use:
+This package is only available from GitHub - it is neither on CRAN nor on Bioconductor. To install this package, use:
 ```r
 remotes::install_github("HenrikBengtsson/TopDomData")
 ```
@@ -27,7 +27,7 @@ Contributing to this package is easy.  Just send a [pull request](https://help.g
 | Resource:     | CRAN                | Travis CI       | Appveyor         |
 | ------------- | ------------------- | --------------- | ---------------- |
 | _Platforms:_  | _Multiple_          | _Linux & macOS_ | _Windows_        |
-| R CMD check   | | <a href="https://travis-ci.org/HenrikBengtsson/TopDomData"><img src="https://travis-ci.org/HenrikBengtsson/TopDomData.svg" alt="Build status"></a>   | <a href="https://ci.appveyor.com/project/HenrikBengtsson/topdomdata"><img src="https://ci.appveyor.com/api/projects/status/github/HenrikBengtsson/topdomdata?svg=true" alt="Build status"></a> |
+| R CMD check   | | <a href="https://travis-ci.org/HenrikBengtsson/TopDomData"><img src="https://travis-ci.org/HenrikBengtsson/TopDomData.svg" alt="Build status"></a>   | <a href="https://ci.appveyor.com/project/HenrikBengtsson/TopDomData"><img src="https://ci.appveyor.com/api/projects/status/github/HenrikBengtsson/TopDomData?svg=true" alt="Build status"></a> |
 | Test coverage | | <a href="https://codecov.io/gh/HenrikBengtsson/TopDomData"><img src="https://codecov.io/gh/HenrikBengtsson/TopDomData/branch/develop/graph/badge.svg" alt="Coverage Status"/></a> | |
 
 

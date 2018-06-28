@@ -39,6 +39,7 @@ Rplots.pdf$
 ^nohup.*$
 ^[.]R
 ^[.]benchmark
+^[.]data
 ^[.]devel
 ^[.]test
 ^[.]check

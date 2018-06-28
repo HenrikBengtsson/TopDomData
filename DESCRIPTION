@@ -4,15 +4,23 @@ Title: Data for the TopDom Package
 Depends: R (>= 3.3.0)
 Suggests: 
 Authors@R: c(person("Henrik", "Bengtsson", role = c("aut", "cre", "cph"),
-                    email = "henrikb@braju.com"),
-             person("Hanjun", "Shin", role = c("aut", "ctr"),
-	            email = "shanjun@usc.edu"),
-             person("Harris", "Lazaris", role = c("ctr"),
-	            comment = "PhD Student, NYU"),
-             person("Gangqing", "Hu", role = c("ctr"),
-	            comment = "Staff Scientist, NIH"))
-Description: Data package supporting the 'TopDom' package.
-License: LGPL (>= 2.1)
+                    email = "henrikb@braju.com",
+                    comment = "R package"),
+             person("Hanjun", "Shin", role = c("aut", "ctr", "cph"),
+                    email = "shanjun@usc.edu",
+                    comment = "TopDom data"),
+             person("Harris", "Lazaris", role = c("ctr", "cph"),
+                    comment = "PhD Student, NYU. TopDom data"),
+             person("Gangqing", "Hu", role = c("ctr", "cph"),
+                    comment = "Staff Scientist, NIH. TopDom data"),
+             person("Dixon", "Jesse", role = c("ctr", "cph"),
+                    email="j1dixon@ucsd.edu",
+                    comment = "Normalized HiC count data"),
+             person("Ren", "Bing", role = c("ctr", "cph"),
+                    email="biren@ucsd.edu",
+                    comment = "Normalized HiC count data"))
+Description: Example data for the 'TopDom' package containing normalized HiC counts and TopDom domain estimates. 
+License: unknown
 LazyLoad: TRUE
 URL: https://github.com/HenrikBengtsson/TopDomData
 BugReports: https://github.com/HenrikBengtsson/TopDomData/issues

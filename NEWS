@@ -1,9 +1,9 @@
 Package: TopDomData
 ===================
 
-Version: 0.1.0-9000 [2018-06-28]
+Version: 0.1.0-9000 [2018-10-10]
 
- * ...
+ * Improved documentation of the data included and their origins.
  
 
 Version: 0.1.0 [2018-06-28]

@@ -35,7 +35,7 @@ _Note_: The license for these data is unknown.
 
 This package is only available from GitHub - it is neither on CRAN nor on Bioconductor. To install this package, use:
 ```r
-remotes::install_github("HenrikBengtsson/TopDomData")
+remotes::install_github("HenrikBengtsson/TopDomData", ref="master")
 ```
 
 

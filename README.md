@@ -11,9 +11,6 @@ The [TopDomData] package is an [R] package that provides examples data for the [
 For full details, please see `help("TopDomData", package="TopDomData")`.
 
 
-_Note_: The license for these data is unknown.
-
-
 ## References
 
  1. Dixon JR, Selvaraj S, Yue F, Kim A, et al. Topological domains in
@@ -60,4 +57,4 @@ Contributing to this package is easy.  Just send a [pull request](https://help.g
 [TopDomData]: https://github.com/HenrikBengtsson/TopDomData/
 [TopDom website]: http://zhoulab.usc.edu/TopDom/
 [UCSD Ren Lab]: http://chromosome.sdsc.edu/mouse/hi-c/download.html
-[GSE35156]: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35156
+[GSE35156]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35156

@@ -19,7 +19,7 @@ Authors@R: c(person("Henrik", "Bengtsson", role = c("aut", "cre", "cph"),
              person("Ren", "Bing", role = c("ctr", "cph"),
                     comment = "Normalized HiC count data"))
 Description: Example data for the 'TopDom' package containing normalized HiC counts and TopDom domain estimates. 
-License: unknown
+License: GPL-3
 LazyLoad: TRUE
 URL: https://github.com/HenrikBengtsson/TopDomData
 BugReports: https://github.com/HenrikBengtsson/TopDomData/issues

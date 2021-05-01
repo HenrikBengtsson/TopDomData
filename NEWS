@@ -1,6 +1,13 @@
 Package: TopDomData
 ===================
 
+Version: 0.2.0 [2021-05-01]
+
+ * Add GPL-3 license to the package.
+
+ * Improved documentation of the data included and their origins.
+ 
+
 Version: 0.1.0 [2018-06-28]
 
  * Released on GitHub.
